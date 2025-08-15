@@ -1,0 +1,4 @@
+nginx
+fastapi
+uvicrn
+pillow
